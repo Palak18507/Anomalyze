@@ -27,4 +27,11 @@ Anomalyse is a modular forensic tool built in Python with a clean Streamlit-base
 - Local virtual environment (`venv`)
 - SQLite
 
+---
+
+## ⚙ Working Video
+
+-▶️ [Click here to watch the video demo](https://drive.google.com/file/d/1yXVqtBrPK6BNLVQ63t3xly8E6VLGkYpn/view?usp=drive_link)
+
+
 
