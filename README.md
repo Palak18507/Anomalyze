@@ -2,6 +2,13 @@
 
 Anomalyse is a modular forensic tool built in Python with a clean Streamlit-based interface. It helps investigators, students, and IT teams analyze digital evidence such as firewall logs, CDR , IPDR , and more — all from a unified dashboard.
 
+
+---
+
+## Working Video
+
+-▶️ [Click here to watch the video demo](https://drive.google.com/file/d/1yXVqtBrPK6BNLVQ63t3xly8E6VLGkYpn/view?usp=drive_link)
+
 ## Live Demo
 👉 https://anomalyze-9evm4xrdnkxkyemu2weulg.streamlit.app/
 
@@ -27,11 +34,6 @@ Anomalyse is a modular forensic tool built in Python with a clean Streamlit-base
 - Local virtual environment (`venv`)
 - SQLite
 
----
-
-## ⚙ Working Video
-
--▶️ [Click here to watch the video demo](https://drive.google.com/file/d/1yXVqtBrPK6BNLVQ63t3xly8E6VLGkYpn/view?usp=drive_link)
 
 
 
