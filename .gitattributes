@@ -1,3 +1,6 @@
 *.pkg filter=lfs diff=lfs merge=lfs -text
 dist/login_Page.exe filter=lfs diff=lfs merge=lfs -text
 build/login_Page/login_Page.pkg filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.pkg filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
